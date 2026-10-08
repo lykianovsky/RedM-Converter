@@ -1,0 +1,23 @@
+**RedM Converter** turns animations into ready-to-use RedM resources. Drop in a file, press **Convert**, and play it in game with /name.
+
+Works with .fbx from **Mixamo, Unreal, Unity, Blender** and .ycd / emote resources from **GTA V (FiveM)**.
+
+## Features
+
+* **Live preview on Arthur**: see the result on the real RDR2 character before converting
+* **Quality report**: pose accuracy, feet on the ground, foot slide
+* **One-click install** to your server's resources folder
+* **Game library**: browse peds, clips and props from your RDR2 install
+* English and Russian interface
+
+## How to use
+
+1. Unzip and run AnimConv.Desktop.exe
+2. Drag your animations into the window
+3. Check the preview, press **Convert**, then **Install on server**
+4. Add ensure <name> to server.cfg and type /<name> in game
+
+## Limitations
+
+* Face, props and particles are not converted yet
+* Rigs with unusual bone names need a mapping file
